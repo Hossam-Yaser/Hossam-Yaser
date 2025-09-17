@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossam-yaser&show_icons=true&locale=en&layout=compact" alt="hossam-yaser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossam-yaser&" alt="hossam-yaser" /></p>
